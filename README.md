@@ -19,6 +19,11 @@ A) Controller, B) Load inputs, C)Multiplexer and D) Comparator.
 
 #Results:
 ----
+![alt text](https://github.com/iluvpomeranians/Digital_Combination_Locker_VHDL_precision_RTL/blob/main/RTL%20precision%20Schematic.png)
+![alt text](https://github.com/iluvpomeranians/Digital_Combination_Locker_VHDL_precision_RTL/blob/main/RTL%20precision%20Schematic%20II.png)
+![alt text](https://github.com/iluvpomeranians/Digital_Combination_Locker_VHDL_precision_RTL/blob/main/conceptual_diagram.png)
+![alt text](https://github.com/iluvpomeranians/Digital_Combination_Locker_VHDL_precision_RTL/blob/main/State_ASM.png)
+
 
 
 
