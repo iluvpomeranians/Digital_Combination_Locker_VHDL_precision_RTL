@@ -1,5 +1,6 @@
 # Digital_Combination_Locker_VHDL_precision_RTL
 ****
+Tools used: Modelsim, Vivado, RTL precision synthesis, VHDL, DO files, Xilinx
 
 Final project for COEN313 to design, test and sythesize a 3-digit Digital Combination locker. Each VHDL code segment was be examined to
 sufficiently provide a clear explanation for all signals, arrays, states and sensitivity lists. Then,
@@ -15,5 +16,9 @@ standard formatted structure of a FSM was followed to organize our code by havin
 register, a next state logic block and an output logic block. Next, by encapsulating with the use
 of 4 separate processes, we modularized the functionality for each of the following components:
 A) Controller, B) Load inputs, C)Multiplexer and D) Comparator.
+
+#Results:
+----
+
 
 
